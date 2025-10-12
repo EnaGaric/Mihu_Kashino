@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1008202501",
+    "text": "This is your mop. Hop on top of the mop. You can hop on your mop. Your mom said “Stop!, Do not hop on the mop!” She said, “Drop the mop!” The cop had a can of pop. He opened the top. The boy wanted the pop. The cop said “Stop!” Did the cop give his pop to the boy? He did not. He said, “Drop the pop!”",
+    "question1": "What did your mom say?",
+    "answer1": "Your mom said 'Stop!, Do not hop on the mop!' ",
+    "correction1": "Halfway there. She also said 'Drop the mop!' ",
+    "question2": "What did the cop have?",
+    "answer2": "The cop had a can of pop.",
+    "question3": "Who wanted the cop's pop?",
+    "answer3": "The boy wanted the cop's pop",
+    "notes": "Not following correctly."
+  },
+  {
+    "id": "1008202502",
+    "text": "The kids need to feel the green grass.The green grass grew from seeds. Now the green grass is deep. The kids feel free when they lay on the green grass. Then deep green grass feels like summer. It feels like freedom.",
+    "question1": "What do the kids need to feel?",
+    "answer1": "The kids need to feel the green grass.",
+    "question2": "How did the green grass grow?",
+    "answer2": "The green grass grew from seeds.",
+    "question3": "What does the green grass feel like?",
+    "answer3": "According to the text, the deep green grass feels like summer and freedom.",
+    "notes": "Major improvement, all excellent answers."
+  },
+  {
+    "id": "1008202503",
+    "text": "I like to have fun. I have fun in the sun. I like to run in the sun. I run in the sun for fun. They like to have fun. I see them have fun in the sun. They run for fun in the sun. We all like to run, and we all like to have fun, so we run in the sun for fun.",
+    "question1": "What is fun?",
+    "answer1": "According to the text, having fun involves running and doing activities in the sun.",
+    "question2": "What do they do?",
+    "answer2": "They like to run in the sun for fun.",
+    "question3": "What is fun?",
+    "answer3": "According to the text, having fun involves running and doing activities in the sun.",
+    "notes": "I'm a bit suspicious about her opening lines, but find this good."
+  },
+  {
+    "id": "1010202501",
+    "text": "This is a brick. The brick is thick. The girl can kick the brick. She can kick the thick brick. This is a stick. The stick is not thick. The boy can pick the stick. He picks a thin stick. He does a trick with the stick. The baby licks the stick. The baby can get sick. Quick! Take the stick. Take the stick so the baby is not sick.",
+    "question1": "What can the girl do?",
+    "answer1": "",
+    "question2": "What does the boy do?",
+    "answer2": "",
+    "question3": "Who licks the stick?",
+    "answer3": "",
+    "notes": ""
+  },
+  {
+    "id": "1010202502",
+    "text": "Gus must go to work, but his truck won’t go. It is too far to walk. It is too far to run. He must take the bus. Gus did get his truck fixed. In just one day his truck was back. He did not have to take the bus. But Gus liked the bus. Gus cut down on gas. Now Gus takes his truck just three days each week. Two days a week, he takes the bus with us!",
+    "question1": "Why did Gus take the bus?",
+    "answer1": "Initially, Gus took the bus because his truck wouldn't start and it was too far to walk or run.",
+    "question2": "Why did Gus like the bus?",
+    "answer2": "According to the text, Gus liked the bus even after he got his truck fixed, suggesting that he enjoyed taking the bus despite not needing to do so anymore.",
+    "question3": "How many days each week does Gus take the bus now?",
+    "answer3": "Gus takes the bus two days a week.",
+    "notes": "I'm very impressed with her first answer."
+  },
+  {
+    "id": "1010202503",
+    "text": "This is a brick. The brick is thick. The girl can kick the brick. She can kick the thick brick. This is a stick. The stick is not thick. The boy can pick the stick. He picks a thin stick. He does a trick with the stick. The baby licks the stick. The baby can get sick.Quick! Take the stick. Take the stick so the baby is not sick.",
+    "question1": "What can the girl do?",
+    "answer1": "According to the text, the girl can kick the brick.",
+    "question2": "What does the boy do?",
+    "answer2": "The boy picks a thin stick and does a trick with it.",
+    "question3": "Who licks the stick?",
+    "answer3": "The baby licks the stick.",
+    "notes": "Impressive for this level."
+  },
+{
+    "id" : "1010202504",
+    "text" : "Dad got some wood.It was cold outside, andthey wanted to have a fire. When Sally opened the door, Dad stood there with the wood.“Look at the good wood!” he said.“There was lots of wood,and I took the good wood.”He was right. The wood was good.It heated their house.Dad used a hook to get some fish.He cooked the fish on the fire.The good wood kept the fire hot.The fish was cooked, and it was good.",
+    "question1" : "What did dad get?",
+    "answer1" : "Dad got some wood.",
+    "question2" : "What did he use to get some fish?",
+    "answer2" : "Dad used a hook to get some fish.",
+    "question3" : "Was the fish good?",
+    "answer3" : "According to the text, yes, the fish was good. Dad cooked it on the fire and it was well done."
+ },
+  {
+    "id" : "1010202505",
+    "text" : "Jane makes a shape on her page. Shane makes the same shape. Jane prints her name on her page. Shane prints his name on his page. Shane wants to be the same as Jane. A horse has a mane. A lion has a mane, too. The horse is a tame animal. The lion is not tame. If the horse and lion race, The ground will shake. Jane and Shane see them race. They watch the race from a safe space. They face the tape at the finish line. They see the lion win first place.",
+    "question1" : "Why does Shane print his name?",
+    "answer1" : "According to the text, Shane prints his name on his page because he wants to be the same as Jane.",
+    "question2" : "Which animal is tame?",
+    "answer2" : "The horse is a tame animal.",
+    "question3" : "Who sees the lion win first place?",
+    "answer3" : "Jane and Shane see the lion win first place. They watch the race from a safe space."
+},
+ {
+    "id" : "1010202506",
+    "text" : "Mom went to the shop. She got me a pet. The pet Mom got from the pet shop was a fox. But the fox got out of the box. Mom said not to be sad. She will find the fox. She took the box. Mom was gone for a long time. Now Mom is back. She did find the fox! The fox is in the box. Mom has to chop food for the fox. I can sit with the fox.",
+    "question1" : "What did Mom get at the pet shop?",
+    "answer1" : "According to the text, Mom got a pet fox from the pet shop.",
+    "question2" : "What will Mom do?",
+    "answer2" : "Mom has to chop food for the fox.",
+    "question3" : "Where is the fox?",
+    "answer3" : "The fox is in the box.",
+    "notes" : "I'm feeling uneasy about her answers." 
+},
+ {
+    "id" : "1010202507",
+    "text" : "I had never had a hat. I wanted one, so I told my dad. He said he was glad to get me my first hat. When I saw it, I was mad. It was a bad hat. I did not like it. I put it in the water so it went away. My dad was mad. He said I was bad to lose the hat. I got a new hat. I like it more than my first hat.",
+    "question1" : "What did his dad get?",
+    "answer1" : "", 
+    "question2" : "Why was he mad when he saw it?",
+    "answer2" : "",
+    "question3" : "Which hat does he like more?",
+    "answer3" : ""
+},
+ {
+    "id" : "1010202508",
+    "text" : "I have a new sled. I use my sled in the snow. I can go fast on my sled. Look at my sled. My sled is red. My red sled is fast. My red sled has room for two. I can use it, and so can you. We go fast on my new, red sled.",
+    "question1" : "What is new?",
+    "answer1" : "", 
+    "question2" : "Is the sled fast?",
+    "answer2" : "",
+    "question3" : "Who can use the red sled?",
+    "answer3" : ""
+},
+ {
+    "id" : "1010202509",
+    "text" : "Janet has a broom. Up in the sky she sees the huge moon. Janet wants to ride her broom. She wants to ride to the moon. She takes her broom up on the roof. She jumps but cannot ride the broom. The pool is there, so she gets wet. She’ll dry off soon in a warm blanket. The moon shines bright into her room. She eats some ice cream with a spoon and dreams of riding on her broom. One day she will go to the moon. Maybe she will get there soon.",
+    "question1" : "What does Janet want to do?",
+    "answer1" : "", 
+    "question2" : "Why does she get wet?",
+    "answer2" : "",
+    "question3" : "What does she eat with a spoon?",
+    "answer3" : ""
+},
+ {
+    "id" : "1010202510",
+    "text" : "The crab has a big shell. The shell does not fit well. I can tell she needs less shell. She fell when she tried to carry this shell. The spider has a web. She made the web to get bugs. She goes to bed on the web and waits for them to come. They may come on part of the web. She will get them and fix her web. More bugs may come to her web. She sets her web like a trap and waits. She waits well.",
+    "question1" : "Why does she need less shell?",
+    "answer1" : "", 
+    "question2" : "Why did she make the web?",
+    "answer2" : "",
+    "question3" : "What does she do well?",
+    "answer3" : ""
+}
+]
