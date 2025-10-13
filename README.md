@@ -13,11 +13,11 @@ How to install:
 - ako te baš zanima dubinski kako se radi LLM, pogledaj vector embeding, tokenizing...
 - ukratko, uči se model da su pas i mačka slični, ali ananas i sunce nisu...to je jako dug proces i zahtjeva puno para
 - Ollama je library LLM modela koje su ljudi napravili: nadohvat ti je ruke! Samo odabereš model, instaliraš ga i good to go, totalno free!!
-- Ollama sada ima i aplikaciju, tako da ti je lakše "priačti s AI-em"
+- Ollama sada ima i aplikaciju, tako da ti je lakše "pričati s AI-em"
 - svaki model radi druge stvari (model za prepoznavanje i generiranje slika, necenzurirani, za različite procesore...)
 
 https://ollama.com/download
-instalirati će se installation exe file od 1gb, pokreneš ga, instalira u direktorij (najčešće u users...AppData/Local)
+instalirati će se installation exe file od 1gb, pokreneš ga, instalira se sam u direktorij (najčešće u users...AppData/Local)
 
 2) Install lokalni LLM
 - uđi u terminal (cmd)
@@ -44,7 +44,7 @@ Pen and touch	No pen or touch input is available for this display
 
 4) povuci fajlove sa mog githuba
 
-git clone https://github.com/EnaGaric/My-own-AI.git
+git clone https://github.com/EnaGaric/Mihu_Kashino.git
 
 (možeš i preuzet zip file, ali topla preporuka je da copy paste udreš, da se navikneš na git...osjećat ćeš se kao programer, trust me)
 ako imaš github, pretpostavljam da imaš skinut i git. Ako nemaš, instaliraj ga!
@@ -52,17 +52,17 @@ moja preporuka: instaliraj visual studio code te instaliraj sve extensions koje 
 *) ako ćeš zip file:
 a) extract, otvori terminal u folderu
 
-5) moraš znati gdje ti se nalazi models. idi na git terminal (git bash) i upiši cd My-own-AI
+5) moraš znati gdje ti se nalazi models. idi na git terminal (git bash) i upiši cd Mihu_Kashino
 
------otvori folder. Unutra bi trebao vidjeti file koji se zove Modelfile (npr My-own-AI/MihuAI/Modelfile)
+-----otvori folder. Unutra bi trebao vidjeti file koji se zove Modelfile (npr Mihu_Kashino/MihuAI/Modelfile)
 to je "blueprint" koji ollama koristi da bi kreirao Mihu AI, tj costum AI model
 
 možeš ga i otvoriti (vidit ćeš tu FROM, PARAMETER, SYSTEM...)
 
-6) NAPRAVI KORAK 5!!!!!!!!!! u terminal cd My-own-AI da uđeš u taj folder
+6) NAPRAVI KORAK 5!!!!!!!!!! u terminal cd Mihu_Kashino da uđeš u taj folder
 -unutar tog foldera, runaj: ollama create mihu -f Modelfile
 (to ubiti govori Ollami ka ej napravi mi ovaj ai koristeći upute u tom Modelfile)
-- pazi da su ti svi fajlovi u istom folderu gdje je i Modelfile (ersona.json, mihu_persona_loader.json, ...)
+- pazi da su ti svi fajlovi u istom folderu gdje je i Modelfile (persona.json, mihu_persona_loader.json, ...)
 
 7) gotov si
 možeš u terminalu ollama run mihu
